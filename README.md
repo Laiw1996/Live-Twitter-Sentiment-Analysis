@@ -1,8 +1,6 @@
-First, sorry for the messy project directory!
+See the introuction of this project in Poster.pdf 
 
 Please make sure you meet the following requirments in the requirement.txt
-
-
 
 Run the code:
 
